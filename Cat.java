@@ -8,4 +8,10 @@ class Cat{
 	private Dog lover;
 
 	private Cat cat;//小猫咪的新对象
+
+
+	void bixiebook(){
+		System.out.println("靠靠");
+
+	}
 }
